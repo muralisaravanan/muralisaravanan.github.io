@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://muralisaravanan.github.io/sitemap.xml
